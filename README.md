@@ -1,7 +1,5 @@
 # Ex.No.9 - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
-
-### DATE: 02.12.2023
-
+### Date:28-12-24
 ## AIM: 
  To simulate the post processing of 3d printed parts via support Removal, UV Curing & Heat Treatment.
 
@@ -45,8 +43,8 @@
 ![image](https://github.com/Raji1009/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/89059861/a2228326-6899-4760-9b7f-dbf2334505da)
 ![image](https://github.com/Raji1009/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/89059861/7c451afd-ba8c-4935-95cb-1cb6f2c622e5)
 
-### Name: Rajalakshmi R
-### Register Number: 23013958
+### Name:  Senthil Arunachalam P
+### Register Number: 24900904
 
 ## Result: 
  Thus the simulation on the Postprocessing in additive manufacturing is completed.
